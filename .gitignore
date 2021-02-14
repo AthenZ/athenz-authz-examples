@@ -1,0 +1,8 @@
+java/centralized-use-case/servlet/dependency-reduced-pom.xml
+java/centralized-use-case/servlet/target/
+java/decentralized-use-case/client/dependency-reduced-pom.xml
+java/decentralized-use-case/client/target/
+java/decentralized-use-case/command-line/dependency-reduced-pom.xml
+java/decentralized-use-case/command-line/target/
+java/decentralized-use-case/servlet/dependency-reduced-pom.xml
+java/decentralized-use-case/servlet/target/
